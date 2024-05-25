@@ -2,7 +2,7 @@
 
 **`Junior Front-End-Dev`**
 
-Intresting in tech & Digital world brought me to explor, learn every day new things and be creative with waht I learn.<br>
+Intresting in tech & Digital world brought me to explore, learn every day new things and be creative with waht I learn.<br>
 <br>
 🛣 Started with **`HTML5, CSS3, JavaScript`**<br>
 followed by learning **`SASS, tailwindcss, Reactjs & GitHub`** <br>
